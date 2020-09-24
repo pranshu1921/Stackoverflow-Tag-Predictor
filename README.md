@@ -1,6 +1,7 @@
 # Stackoverflow-Tag-Predictor
-This is a multi-label classification problem to Identify keywords and tags from millions of text questions and suggest the tags based on the content that there is in the question posted on Stackoverflow.
-It uses dataset provided in the ['Facebook Recruiting III - Keyword Extraction'](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/) posted on Kaggle.
+This is a **multi-label classification problem** to Identify keywords and tags from millions of text questions and suggest the tags based on the content that there is in the question posted on Stackoverflow.
+It uses dataset provided in the **['Facebook Recruiting III - Keyword Extraction'](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/)** posted on Kaggle.
+
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
@@ -21,14 +22,15 @@ Business Constraints-
 
 ## Setup
 
-* Download the Jupyter Notebook 'SO_Tag_Predictor.ipynb' above on your computer.
+* Download the Jupyter Notebook **'SO_Tag_Predictor.ipynb'** above on your computer.
+* Download the Kaggle and other files using [this](https://drive.google.com/drive/folders/149ZLCNqL4WBdp-7Y3eHxcMHHhVvIWRSW) link.
 
 ### Install the requirements
  
 * Install the requirements using `pip install -r requirements.txt`.
     * Make sure you use Python 3.
     
-* Run the jupyter notebook
+* **Run** the jupyter notebook
 
 ## Status
 Project status: **Finished**
