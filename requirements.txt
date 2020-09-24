@@ -1,0 +1,10 @@
+pandas
+sqlite3
+matplotlib
+seaborn
+numpy
+wordcloud
+sqlalchemy
+nltk
+sklearn
+skmultilearn
